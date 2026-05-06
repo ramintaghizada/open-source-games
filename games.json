@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2048",
+    "category": "puzzle",
+    "url": "https://github.com/gabrielecirulli/2048"
+  },
+  {
+    "name": "BrowserQuest",
+    "category": "multiplayer",
+    "url": "https://github.com/mozilla/BrowserQuest"
+  },
+  {
+    "name": "HexGL",
+    "category": "arcade",
+    "url": "https://github.com/BKcore/HexGL"
+  }
+]
